@@ -1,1 +1,1 @@
-web: java -jar target/messenger-1.0.jar
+web: java -jar target/dependency/webapp-runner.jar target/messenger-1.0.war
