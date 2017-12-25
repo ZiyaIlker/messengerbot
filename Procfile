@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar --port $PORT target/*.war
+web: java -jar target/messenger-1.0.jar
